@@ -19,4 +19,12 @@ Doctor and personnel assistance system:-Helping doctors to monitor the parameter
 <a href="https://github.com/Chethan-B-dev/Covid19-Assistance/blob/master/sample.gif"></a>
 
 
-![](sample.gif)
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              
+                                                              
+                                                                              ![](sample.gif)
