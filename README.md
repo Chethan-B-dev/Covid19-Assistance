@@ -13,4 +13,4 @@ Doctor and personnel assistance system:-Helping doctors to monitor the parameter
 
 5.) Open the browser (chrome), type localhost and you should see the index page of the website.
 
-6)to login as a docter or a personnel you have to manually add credentials into the logindocter and perlogin tables from the database.this is for security because we cannot just allow anybody to register an account as a doctor or personnel.
+6 .) to login as a docter or a personnel you have to manually add credentials into the logindocter and perlogin tables from the database.this is for security because we cannot just allow anybody to register an account as a doctor or personnel.
