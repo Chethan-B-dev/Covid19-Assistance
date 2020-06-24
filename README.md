@@ -7,7 +7,7 @@ Doctor and personnel assistance system:-Helping doctors to monitor the parameter
 
 2.) Open the phpMyAdmin and create a database "covid". 
 
-3.) Import the covid.sql file present in the database folder.
+3.) Import the covid.sql file into your created database.
 
 4.) Open the htdocs folder in the xampp folder. Copy and paste this repository.
 
